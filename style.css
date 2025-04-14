@@ -21,7 +21,7 @@ body {
 }
 
 .container {
-  position: absolute;
+  position: relative;
   margin: 0 auto; /* Centramos el contenido horizontalmente */
   padding-bottom: 100%; /* Permitimos espacio extra si el contenido crece */
   width: 80%; /* Ajusta el tamaño del contenedor */
